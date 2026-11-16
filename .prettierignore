@@ -1,0 +1,6 @@
+.next
+node_modules
+.data
+contoh/jawaban.json
+hasil-eval
+package-lock.json

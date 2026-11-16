@@ -1,0 +1,20 @@
+# dependensi
+node_modules/
+
+# hasil build
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# rahasia (lihat .env.example)
+.env
+.env.local
+.env*.local
+
+# data lokal: dokumen unggahan dan basis data berkas
+.data/
+
+# perkakas
+.vercel
+coverage/
