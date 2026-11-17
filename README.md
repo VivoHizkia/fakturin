@@ -1,4 +1,5 @@
 # Faktur Otomatis
+n[![CI](https://github.com/VivoHizkia/fakturin/actions/workflows/ci.yml/badge.svg)](https://github.com/VivoHizkia/fakturin/actions/workflows/ci.yml)
 
 Mengubah foto faktur, nota, dan struk menjadi data siap pakai, dan hanya meminta manusia memeriksa yang benar-benar meragukan.
 
