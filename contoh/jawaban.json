@@ -1,0 +1,668 @@
+[
+  {
+    "berkas": "faktur-01.png",
+    "catatan": "faktur",
+    "faktur": {
+      "penjual": "PT Sinar Baja Nusantara",
+      "nomor_faktur": "INV/2026/10/0182",
+      "tanggal": "2026-10-06",
+      "mata_uang": "IDR",
+      "subtotal": 7598000,
+      "pajak": 835780,
+      "total": 8433780,
+      "baris": [
+        {
+          "nama": "Besi beton 10 mm",
+          "jumlah": 40,
+          "harga_satuan": 78500,
+          "total_baris": 3140000
+        },
+        {
+          "nama": "Kawat bendrat 1 kg",
+          "jumlah": 12,
+          "harga_satuan": 24000,
+          "total_baris": 288000
+        },
+        {
+          "nama": "Wiremesh M8",
+          "jumlah": 6,
+          "harga_satuan": 695000,
+          "total_baris": 4170000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-02.png",
+    "catatan": "faktur, miring",
+    "faktur": {
+      "penjual": "CV Maju Bersama Teknik",
+      "nomor_faktur": "MBT-00417",
+      "tanggal": "2026-10-19",
+      "mata_uang": "IDR",
+      "subtotal": 3850000,
+      "pajak": 423500,
+      "total": 4273500,
+      "baris": [
+        {
+          "nama": "Jasa servis genset 20 kVA",
+          "jumlah": 1,
+          "harga_satuan": 2750000,
+          "total_baris": 2750000
+        },
+        {
+          "nama": "Oli mesin 5 liter",
+          "jumlah": 2,
+          "harga_satuan": 415000,
+          "total_baris": 830000
+        },
+        {
+          "nama": "Filter solar",
+          "jumlah": 2,
+          "harga_satuan": 135000,
+          "total_baris": 270000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-03.png",
+    "catatan": "faktur",
+    "faktur": {
+      "penjual": "PT Arunika Data Solusi",
+      "nomor_faktur": "ADS-2026-1109",
+      "tanggal": "2026-11-03",
+      "mata_uang": "IDR",
+      "subtotal": 5950000,
+      "pajak": 654500,
+      "total": 6604500,
+      "baris": [
+        {
+          "nama": "Langganan server awan (November)",
+          "jumlah": 1,
+          "harga_satuan": 4200000,
+          "total_baris": 4200000
+        },
+        {
+          "nama": "Dukungan teknis 5 jam",
+          "jumlah": 5,
+          "harga_satuan": 350000,
+          "total_baris": 1750000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-04.png",
+    "catatan": "struk",
+    "faktur": {
+      "penjual": "Toko Bangunan Sumber Rejeki",
+      "nomor_faktur": "TRX-558120",
+      "tanggal": "2026-11-08",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 706000,
+      "baris": [
+        {
+          "nama": "Semen 50 kg",
+          "jumlah": 5,
+          "harga_satuan": 68000,
+          "total_baris": 340000
+        },
+        {
+          "nama": "Pasir 1 karung",
+          "jumlah": 10,
+          "harga_satuan": 17500,
+          "total_baris": 175000
+        },
+        {
+          "nama": "Kuas 3 inci",
+          "jumlah": 2,
+          "harga_satuan": 22000,
+          "total_baris": 44000
+        },
+        {
+          "nama": "Cat tembok 5 kg",
+          "jumlah": 1,
+          "harga_satuan": 147000,
+          "total_baris": 147000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-05.png",
+    "catatan": "struk, kecil",
+    "faktur": {
+      "penjual": "Minimarket Segar Jaya",
+      "nomor_faktur": "0091-2211-447",
+      "tanggal": "2026-11-11",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 186500,
+      "baris": [
+        {
+          "nama": "Air mineral 600 ml",
+          "jumlah": 12,
+          "harga_satuan": 3500,
+          "total_baris": 42000
+        },
+        {
+          "nama": "Kopi sachet isi 10",
+          "jumlah": 3,
+          "harga_satuan": 14900,
+          "total_baris": 44700
+        },
+        {
+          "nama": "Gula pasir 1 kg",
+          "jumlah": 2,
+          "harga_satuan": 18200,
+          "total_baris": 36400
+        },
+        {
+          "nama": "Tisu 250 lembar",
+          "jumlah": 4,
+          "harga_satuan": 11750,
+          "total_baris": 47000
+        },
+        {
+          "nama": "Sabun cuci piring",
+          "jumlah": 1,
+          "harga_satuan": 16400,
+          "total_baris": 16400
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-06.png",
+    "catatan": "nota",
+    "faktur": {
+      "penjual": "Bengkel Las Pak Darto",
+      "nomor_faktur": "0342",
+      "tanggal": "2026-10-27",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 980000,
+      "baris": [
+        {
+          "nama": "Las pagar besi",
+          "jumlah": 1,
+          "harga_satuan": 850000,
+          "total_baris": 850000
+        },
+        {
+          "nama": "Cat anti karat",
+          "jumlah": 2,
+          "harga_satuan": 65000,
+          "total_baris": 130000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-07.png",
+    "catatan": "nota",
+    "faktur": {
+      "penjual": "Warung Makan Bu Lastri",
+      "nomor_faktur": null,
+      "tanggal": "2026-11-12",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 865000,
+      "baris": [
+        {
+          "nama": "Nasi kotak ayam",
+          "jumlah": 25,
+          "harga_satuan": 28000,
+          "total_baris": 700000
+        },
+        {
+          "nama": "Es teh manis",
+          "jumlah": 25,
+          "harga_satuan": 5000,
+          "total_baris": 125000
+        },
+        {
+          "nama": "Kerupuk",
+          "jumlah": 5,
+          "harga_satuan": 8000,
+          "total_baris": 40000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-08.png",
+    "catatan": "faktur, buram",
+    "faktur": {
+      "penjual": "UD Tani Makmur Sejahtera",
+      "nomor_faktur": "TMS/XI/2026/031",
+      "tanggal": "2026-11-02",
+      "mata_uang": "IDR",
+      "subtotal": 13742500,
+      "pajak": 1511675,
+      "total": 15254175,
+      "baris": [
+        {
+          "nama": "Pupuk NPK 50 kg",
+          "jumlah": 20,
+          "harga_satuan": 412000,
+          "total_baris": 8240000
+        },
+        {
+          "nama": "Benih jagung 5 kg",
+          "jumlah": 8,
+          "harga_satuan": 385000,
+          "total_baris": 3080000
+        },
+        {
+          "nama": "Herbisida 1 liter",
+          "jumlah": 15,
+          "harga_satuan": 96500,
+          "total_baris": 1447500
+        },
+        {
+          "nama": "Sprayer manual 16 liter",
+          "jumlah": 3,
+          "harga_satuan": 325000,
+          "total_baris": 975000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-09.png",
+    "catatan": "struk, pudar",
+    "faktur": {
+      "penjual": "Apotek Sehat Sentosa",
+      "nomor_faktur": "AP-7731906",
+      "tanggal": "2026-10-30",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 151400,
+      "baris": [
+        {
+          "nama": "Vitamin C 500 mg",
+          "jumlah": 2,
+          "harga_satuan": 38500,
+          "total_baris": 77000
+        },
+        {
+          "nama": "Masker medis isi 50",
+          "jumlah": 1,
+          "harga_satuan": 45000,
+          "total_baris": 45000
+        },
+        {
+          "nama": "Plester luka",
+          "jumlah": 3,
+          "harga_satuan": 9800,
+          "total_baris": 29400
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-10.jpg",
+    "catatan": "faktur, jpeg",
+    "faktur": {
+      "penjual": "PT Cahaya Grafika Mandiri",
+      "nomor_faktur": "CGM-INV-2204",
+      "tanggal": "2026-09-22",
+      "mata_uang": "IDR",
+      "subtotal": 3370000,
+      "pajak": 370700,
+      "total": 3740700,
+      "baris": [
+        {
+          "nama": "Cetak brosur A4 2 sisi",
+          "jumlah": 2000,
+          "harga_satuan": 1150,
+          "total_baris": 2300000
+        },
+        {
+          "nama": "Spanduk 3 x 1 m",
+          "jumlah": 4,
+          "harga_satuan": 185000,
+          "total_baris": 740000
+        },
+        {
+          "nama": "Kartu nama 1 kotak",
+          "jumlah": 6,
+          "harga_satuan": 55000,
+          "total_baris": 330000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-11.jpg",
+    "catatan": "struk, miring, jpeg",
+    "faktur": {
+      "penjual": "Kedai Kopi Tepi Sawah",
+      "nomor_faktur": null,
+      "tanggal": "2026-11-14",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 102000,
+      "baris": [
+        {
+          "nama": "Kopi susu gula aren",
+          "jumlah": 3,
+          "harga_satuan": 22000,
+          "total_baris": 66000
+        },
+        {
+          "nama": "Roti bakar cokelat",
+          "jumlah": 2,
+          "harga_satuan": 18000,
+          "total_baris": 36000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-12.png",
+    "catatan": "nota, miring",
+    "faktur": {
+      "penjual": "Toko Listrik Terang Abadi",
+      "nomor_faktur": "1187",
+      "tanggal": "2026-10-15",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 1447000,
+      "baris": [
+        {
+          "nama": "Kabel NYM 2x1,5 (50 m)",
+          "jumlah": 2,
+          "harga_satuan": 465000,
+          "total_baris": 930000
+        },
+        {
+          "nama": "Saklar tunggal",
+          "jumlah": 10,
+          "harga_satuan": 14500,
+          "total_baris": 145000
+        },
+        {
+          "nama": "Lampu LED 12 watt",
+          "jumlah": 8,
+          "harga_satuan": 27000,
+          "total_baris": 216000
+        },
+        {
+          "nama": "MCB 10 A",
+          "jumlah": 3,
+          "harga_satuan": 52000,
+          "total_baris": 156000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-13.png",
+    "catatan": "faktur, pudar, kecil",
+    "faktur": {
+      "penjual": "CV Karya Mebel Jepara Indah",
+      "nomor_faktur": "KMJ/26/0915",
+      "tanggal": "2026-09-30",
+      "mata_uang": "IDR",
+      "subtotal": 16400000,
+      "pajak": 1804000,
+      "total": 18204000,
+      "baris": [
+        {
+          "nama": "Meja kerja jati 140 cm",
+          "jumlah": 4,
+          "harga_satuan": 2350000,
+          "total_baris": 9400000
+        },
+        {
+          "nama": "Kursi kantor",
+          "jumlah": 8,
+          "harga_satuan": 875000,
+          "total_baris": 7000000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-14.png",
+    "catatan": "struk",
+    "faktur": {
+      "penjual": "SPBU Mitra Perjalanan",
+      "nomor_faktur": "SP-20261105-0093",
+      "tanggal": "2026-11-05",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 1668000,
+      "baris": [
+        {
+          "nama": "Solar industri (liter)",
+          "jumlah": 120,
+          "harga_satuan": 13900,
+          "total_baris": 1668000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-15.png",
+    "catatan": "faktur, buram, miring",
+    "faktur": {
+      "penjual": "PT Lintas Kargo Persada",
+      "nomor_faktur": "LKP-88412",
+      "tanggal": "2026-10-09",
+      "mata_uang": "IDR",
+      "subtotal": 2515000,
+      "pajak": 276650,
+      "total": 2791650,
+      "baris": [
+        {
+          "nama": "Pengiriman Medan - Jakarta 320 kg",
+          "jumlah": 320,
+          "harga_satuan": 6500,
+          "total_baris": 2080000
+        },
+        {
+          "nama": "Asuransi barang",
+          "jumlah": 1,
+          "harga_satuan": 185000,
+          "total_baris": 185000
+        },
+        {
+          "nama": "Biaya bongkar muat",
+          "jumlah": 1,
+          "harga_satuan": 250000,
+          "total_baris": 250000
+        }
+      ]
+    },
+    "alasan": []
+  },
+  {
+    "berkas": "faktur-16.png",
+    "catatan": "faktur, cacat: total_salah",
+    "faktur": {
+      "penjual": "PT Tirta Pipa Persada",
+      "nomor_faktur": "TPP-2026-0778",
+      "tanggal": "2026-10-21",
+      "mata_uang": "IDR",
+      "subtotal": 5304000,
+      "pajak": 583440,
+      "total": 6037440,
+      "baris": [
+        {
+          "nama": "Pipa PVC 4 inci",
+          "jumlah": 30,
+          "harga_satuan": 142000,
+          "total_baris": 4260000
+        },
+        {
+          "nama": "Sambungan L 4 inci",
+          "jumlah": 24,
+          "harga_satuan": 31500,
+          "total_baris": 756000
+        },
+        {
+          "nama": "Lem pipa 400 g",
+          "jumlah": 6,
+          "harga_satuan": 48000,
+          "total_baris": 288000
+        }
+      ]
+    },
+    "alasan": [
+      "total_tidak_cocok"
+    ]
+  },
+  {
+    "berkas": "faktur-17.png",
+    "catatan": "struk, cacat: baris_salah",
+    "faktur": {
+      "penjual": "Toko Alat Tulis Pelangi",
+      "nomor_faktur": "ATK-339201",
+      "tanggal": "2026-11-07",
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 709000,
+      "baris": [
+        {
+          "nama": "Kertas HVS A4 1 rim",
+          "jumlah": 10,
+          "harga_satuan": 52000,
+          "total_baris": 560000
+        },
+        {
+          "nama": "Pulpen hitam 1 lusin",
+          "jumlah": 4,
+          "harga_satuan": 28500,
+          "total_baris": 114000
+        },
+        {
+          "nama": "Map plastik",
+          "jumlah": 20,
+          "harga_satuan": 3750,
+          "total_baris": 75000
+        }
+      ]
+    },
+    "alasan": [
+      "jumlah_baris_tidak_cocok"
+    ]
+  },
+  {
+    "berkas": "faktur-18.png",
+    "catatan": "nota, cacat: tanpa_tanggal",
+    "faktur": {
+      "penjual": "Jasa Angkut Mandala",
+      "nomor_faktur": "0876",
+      "tanggal": null,
+      "mata_uang": "IDR",
+      "subtotal": null,
+      "pajak": null,
+      "total": 1250000,
+      "baris": [
+        {
+          "nama": "Sewa truk engkel 1 hari",
+          "jumlah": 1,
+          "harga_satuan": 950000,
+          "total_baris": 950000
+        },
+        {
+          "nama": "Upah kenek",
+          "jumlah": 2,
+          "harga_satuan": 150000,
+          "total_baris": 300000
+        }
+      ]
+    },
+    "alasan": [
+      "kolom_wajib_kosong"
+    ]
+  },
+  {
+    "berkas": "faktur-19.png",
+    "catatan": "faktur, cacat: tanggal_lama",
+    "faktur": {
+      "penjual": "CV Bina Karya Elektrindo",
+      "nomor_faktur": "BKE/V/2023/114",
+      "tanggal": "2023-05-12",
+      "mata_uang": "IDR",
+      "subtotal": 9900000,
+      "pajak": 1089000,
+      "total": 10989000,
+      "baris": [
+        {
+          "nama": "Panel listrik 3 fasa",
+          "jumlah": 1,
+          "harga_satuan": 8400000,
+          "total_baris": 8400000
+        },
+        {
+          "nama": "Jasa pemasangan",
+          "jumlah": 1,
+          "harga_satuan": 1500000,
+          "total_baris": 1500000
+        }
+      ]
+    },
+    "alasan": [
+      "tanggal_tidak_wajar"
+    ]
+  },
+  {
+    "berkas": "faktur-20.png",
+    "catatan": "faktur, miring, buram",
+    "faktur": {
+      "penjual": "PT Arunika Data Solusi",
+      "nomor_faktur": "ADS-2026-1109",
+      "tanggal": "2026-11-03",
+      "mata_uang": "IDR",
+      "subtotal": 5950000,
+      "pajak": 654500,
+      "total": 6604500,
+      "baris": [
+        {
+          "nama": "Langganan server awan (November)",
+          "jumlah": 1,
+          "harga_satuan": 4200000,
+          "total_baris": 4200000
+        },
+        {
+          "nama": "Dukungan teknis 5 jam",
+          "jumlah": 5,
+          "harga_satuan": 350000,
+          "total_baris": 1750000
+        }
+      ]
+    },
+    "alasan": [
+      "duplikat"
+    ]
+  }
+]
