@@ -1,0 +1,177 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "benarPerKolom": {
+    "penjual": 20,
+    "nomor_faktur": 20,
+    "tanggal": 20,
+    "subtotal": 19,
+    "pajak": 20,
+    "total": 20
+  },
+  "barisBenar": 20,
+  "terbaca": 20,
+  "hasil": [
+    {
+      "berkas": "faktur-01.png",
+      "catatan": "faktur",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-02.png",
+      "catatan": "faktur, miring",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-03.png",
+      "catatan": "faktur",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-04.png",
+      "catatan": "struk",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-05.png",
+      "catatan": "struk, kecil",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-06.png",
+      "catatan": "nota",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-07.png",
+      "catatan": "nota",
+      "salah": [
+        "subtotal: 865000 (seharusnya null)"
+      ],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-08.png",
+      "catatan": "faktur, buram",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-09.png",
+      "catatan": "struk, pudar",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-10.jpg",
+      "catatan": "faktur, jpeg",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-11.jpg",
+      "catatan": "struk, miring, jpeg",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-12.png",
+      "catatan": "nota, miring",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-13.png",
+      "catatan": "faktur, pudar, kecil",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-14.png",
+      "catatan": "struk",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-15.png",
+      "catatan": "faktur, buram, miring",
+      "salah": [],
+      "alasanDiharapkan": [],
+      "alasanDidapat": []
+    },
+    {
+      "berkas": "faktur-16.png",
+      "catatan": "faktur, cacat: total_salah",
+      "salah": [],
+      "alasanDiharapkan": [
+        "total_tidak_cocok"
+      ],
+      "alasanDidapat": [
+        "total_tidak_cocok"
+      ]
+    },
+    {
+      "berkas": "faktur-17.png",
+      "catatan": "struk, cacat: baris_salah",
+      "salah": [],
+      "alasanDiharapkan": [
+        "jumlah_baris_tidak_cocok"
+      ],
+      "alasanDidapat": [
+        "jumlah_baris_tidak_cocok"
+      ]
+    },
+    {
+      "berkas": "faktur-18.png",
+      "catatan": "nota, cacat: tanpa_tanggal",
+      "salah": [],
+      "alasanDiharapkan": [
+        "kolom_wajib_kosong"
+      ],
+      "alasanDidapat": [
+        "kolom_wajib_kosong"
+      ]
+    },
+    {
+      "berkas": "faktur-19.png",
+      "catatan": "faktur, cacat: tanggal_lama",
+      "salah": [],
+      "alasanDiharapkan": [
+        "tanggal_tidak_wajar"
+      ],
+      "alasanDidapat": [
+        "tanggal_tidak_wajar"
+      ]
+    },
+    {
+      "berkas": "faktur-20.png",
+      "catatan": "faktur, miring, buram",
+      "salah": [],
+      "alasanDiharapkan": [
+        "duplikat"
+      ],
+      "alasanDidapat": [
+        "duplikat"
+      ]
+    }
+  ]
+}
